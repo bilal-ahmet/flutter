@@ -1,0 +1,6 @@
+
+flutter_datetime_picker_plus: tarih ve saat seçmek için kullanışlı bir paket olan "flutter_datetime_picker_plus" kullanıldı.
+***
+uuid: verilere numaralar atayarak erişim sağlıyor. görevlerin id'lerine atayıp erişim sağlamak için kullanacağız.
+***
+intl: tarih ve saati formatlamak için kullanılıyor. ListTile'ın trailing'ine tarih koymak için kullanacağız.
