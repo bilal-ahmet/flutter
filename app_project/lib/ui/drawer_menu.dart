@@ -14,8 +14,8 @@ class _DrawerMenuState extends State<DrawerMenu> {
       child: Column(
         children: <Widget>[
           UserAccountsDrawerHeader(
-            accountName: const Text('emrealtunbilek'),
-            accountEmail: const Text('emrealtunbilek@gmail.com'),
+            accountName: const Text('bilalakpinar'),
+            accountEmail: const Text('akpinarbilalahmet@gmail.com'),
             currentAccountPicture: Image.network(
                 'https://emrealtunbilek.com/wp-content/uploads/2016/10/apple-icon-72x72.png'),
             otherAccountsPictures: const <Widget>[
