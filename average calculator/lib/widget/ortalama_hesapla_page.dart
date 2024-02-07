@@ -102,7 +102,7 @@ class _OrtalamaHesaplaPageState extends State<OrtalamaHesaplaPage> {
                 onPressed: _dersEkleVeOrtalamaHesapla,
                 icon: Icon(Icons.arrow_forward_ios_sharp),
                 color: Sabitler.anaRenk,
-                iconSize: 30,
+                iconSize: 28,
               ),
             ],
           )
