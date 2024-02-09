@@ -30,7 +30,7 @@ class _MyGameState extends State<MyGame> {
             SizedBox(height: 20),
             Text(
               'Sonuç: $result',
-              style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
+              style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
             ),
             SizedBox(height: 20),
             Row(
